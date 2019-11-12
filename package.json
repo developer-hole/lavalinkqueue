@@ -10,6 +10,6 @@
     "node-fetch": "^2.6.0"
   },
   "devDependencies": {
-    "eslint-config-developer": "^0.0.5"
+    "eslint-config-developer": "0.0.5"
   }
 }
